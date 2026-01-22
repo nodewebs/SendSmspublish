@@ -1,0 +1,103 @@
+﻿
+.w-100 {
+    width: 100%;
+}
+
+.h-fit-content {
+    height: fit-content;
+}
+
+
+.bg-none {
+    background: none;
+}
+
+.f-100-px{
+    font-size: 100px;
+}
+
+.f-14-px {
+    font-size: 14px;
+}
+
+.py-3 {
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.pa-3 {
+    padding: 12px;
+}
+
+.pa-0 {
+    padding: 0;
+}
+
+
+.mt-6 {
+    margin-top: 24px;
+}
+
+.mt-5 {
+    margin-top: 20px;
+}
+
+.my-3 {
+    margin-top: 12px;
+    margin-bottom: 12px;
+
+}
+
+.d-flex {
+    display: flex;
+}
+
+.flex-row {
+    flex-direction: row;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+
+.bg-default {
+    background: #5d86e5;
+}
+
+.bg-green {
+    background: #2cda07;
+}
+
+.color-white {
+    color: #FFF;
+}
+
+.border-radius-5-px {
+    border-radius: 5px;
+}
+
+.border-radius-0 {
+    border-radius: 0;
+}
+
+
+.box-shadow-container {
+    box-shadow: rgba(0 0 0 / 12%) 0px 2px 28px 0px, rgba(0,0,0,0.22) 0px 10px 10px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-stds {
+    font-family: "Noto Sans Lao";
+}
